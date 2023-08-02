@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡️Estudante de CCO na SpTech School -- 1/8<br>⚡️Técnico em eletrônica pela Etec Takashi Morita  
+⚡️Estudante de CCO na SpTech School -- 2/8<br>⚡️Técnico em eletrônica pela Etec Takashi Morita  
 
 
 # 💻 Tech Stack:
