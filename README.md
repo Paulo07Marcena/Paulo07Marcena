@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡️Engenheiro de software na C6 Bank<br>
+⚡️Engenheiro de software no C6 Bank<br>
 ⚡️Estudante de Ciência da Computação na SpTech School -- 3/8<br>⚡️Desenvolvedor Full Stack em JavaScript pela One Bit Code <br>⚡️Técnico em eletrônica pela Etec Takashi Morita  
 
 
