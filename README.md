@@ -6,5 +6,5 @@
 ### Ferramentas
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,r,cpp,js,kotlin)](https://skillicons.dev) <br>
-[![My Skills](https://skillicons.dev/icons?i=aws,mysql,azure,docker,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,mysql,azure,docker,react,postgres)](https://skillicons.dev)
 
