@@ -1,10 +1,4 @@
-# 💫 About Me:
-⚡️Engenheiro de software no C6 Bank<br>
-⚡️Estudante de Ciência da Computação na SpTech School -- 3/8<br>⚡️Desenvolvedor Full Stack em JavaScript pela One Bit Code <br>⚡️Técnico em eletrônica pela Etec Takashi Morita  
-
-
-### Ferramentas
-
-[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,r,js,kotlin)](https://skillicons.dev) <br>
-[![My Skills](https://skillicons.dev/icons?i=aws,mysql,azure,docker,react,postgres)](https://skillicons.dev)
-
+# 💫 Sobre mim:
+🚀Atualmente estou estagiando no C6 Bank como Engenheiro de software<br>
+🚀Cursando Ciência da Computação na SpTech School -- 4/8<br>
+🚀Técnico em eletrônica pela Etec Takashi Morita  
