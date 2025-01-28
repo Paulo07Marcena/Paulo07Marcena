@@ -2,7 +2,7 @@
 ## Olá eu sou o Paulo Marcena, estudante de programação e tecnologia! 👋🏽
 
 #### 🚀 Estagiando como engenheiro de software no [C6 Bank](https://www.c6bank.com.br/)
-#### 🎓 Atualmente, estou no 4º semestre de Ciência da Computação na [SPTech](https://www.sptech.school/) e estagiando como engenheiro de software no C6 Bank! 
+#### 🎓 Atualmente, estou no 5º semestre de Ciência da Computação na [SPTech](https://www.sptech.school/) e estagiando como engenheiro de software no C6 Bank! 
 
 <br>
 
